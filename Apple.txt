@@ -2,3 +2,5 @@ First and second.
 And some more.
 
 New branch is coming!
+
+И всё-таки этот текст нам нужен.
