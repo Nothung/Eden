@@ -1,4 +1,8 @@
-First, and, second!
-And, some, more!
+First and. Second!
+And. Some more!
+
 
 New branch is coming!
+
+И всё-таки этот текст нам нужен.
+Ещё какой-то кусок.
